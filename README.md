@@ -20,10 +20,6 @@
 2. Open in Android Studio  
 3. Run on emulator or Android device
 
-## 📸 Demo
-
-![Screenshot](screenshots/demo.png)
-
 ## 📁 Files
 
 - `MainActivity.kt`
